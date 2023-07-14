@@ -1,3 +1,4 @@
-# registration-screen
+# registration-screen-with-validation
+* Objective: working on form validation concepts with javascript.
+* Technologies used: HTML5, CSS3 and JavaScript.
 
-Registration Screen, with validation, created in the JAVASCRIPT Course at B7Web.
